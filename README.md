@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/fermillan/fermillan/main/assets/header.svg" alt="Fernando Millan banner" width="100%">
 </p>
 
-<h1 align="center">Fernando Millan</h1>
+<h1 align="center">FdoMillan</h1>
 <p align="center"><b>Data Scientist · DevOps &amp; Cyber-Sec Enthusiast</b></p>
 
 <!-- ─────────────────────────────  INTRO  ─────────────────────────────── -->
