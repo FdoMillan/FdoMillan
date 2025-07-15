@@ -2,7 +2,7 @@
 <!-- Replace /assets/header.svg with your own banner or GIF -------------->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fermillan/fermillan/main/assets/header.svg" alt="Fernando Millan banner" width="100%">
+  <img src="https://raw.githubusercontent.com/fdomillan/fdomillan/main/assets/header.svg" alt="Fdo Millan banner" width="100%">
 </p>
 
 <h1 align="center">FdoMillan</h1>
@@ -53,18 +53,18 @@ I automate analytics pipelines, deploy ML at scale, and harden infra in the proc
 ### 📊 Data&nbsp;Science&nbsp;Projects
 | Repo | Tech | One-liner |
 |------|------|-----------|
-| 🔬 **[ecosystem-analysis](https://github.com/fermillan/ecosystem-analysis)** | Python, Pandas | Geospatial & NLP pipeline to score regional innovation ecosystems |
-| 🛰 **[darkmatter-bot](https://github.com/fermillan/darkmatter-bot)** | PyTorch, FastAPI | Bluesky bot that summarizes new arXiv papers on dark matter daily |
-| 📈 **[datalake-analytics](https://github.com/fermillan/datalake-analytics)** | Spark, Databricks | Modular ETL templates and ML labs for large-scale analytics |
-| 🧪 **[fraud-lab](https://github.com/fermillan/fraud-lab)** | scikit-learn | End-to-end notebook series detecting anomalous transactions |
+| 🔬 **[ecosystem-analysis](https://github.com/fdomillan/ecosystem-analysis)** | Python, Pandas | Geospatial & NLP pipeline to score regional innovation ecosystems |
+| 🛰 **[darkmatter-bot](https://github.com/fdomillan/darkmatter-bot)** | PyTorch, FastAPI | Bluesky bot that summarizes new arXiv papers on dark matter daily |
+| 📈 **[datalake-analytics](https://github.com/fdomillan/datalake-analytics)** | Spark, Databricks | Modular ETL templates and ML labs for large-scale analytics |
+| 🧪 **[fraud-lab](https://github.com/fdomillan/fraud-lab)** | scikit-learn | End-to-end notebook series detecting anomalous transactions |
 
 ### ⚙️ DevOps&nbsp;/&nbsp;Cyber&nbsp;Projects
 | Repo | Tech | One-liner |
 |------|------|-----------|
-| 🛠 **[dotfiles-manager-v3](https://github.com/fermillan/dotfiles-manager-v3)** | Bash, GitHub Actions | Modular CLI that provisions and syncs dotfiles across shells |
-| 🔒 **[openwrt-netsec](https://github.com/fermillan/openwrt-netsec)** | OpenWRT, Nginx | DNS-rewrite + reverse-proxy toolkit for home-lab zero-trust setup |
-| 🛰 **[iot-edge-vpn](https://github.com/fermillan/iot-edge-vpn)** | Terraform, WireGuard | IaC that deploys lightweight VPN mesh for IoT devices on ARM SBCs |
-| 📦 **[k8s-ml-ops](https://github.com/fermillan/k8s-ml-ops)** | Kubernetes, Argo | Helm charts and Argo-Workflows for reproducible ML pipelines |
+| 🛠 **[dotfiles-manager-v3](https://github.com/fdomillan/dotfiles-manager-v3)** | Bash, GitHub Actions | Modular CLI that provisions and syncs dotfiles across shells |
+| 🔒 **[openwrt-netsec](https://github.com/fdomillan/openwrt-netsec)** | OpenWRT, Nginx | DNS-rewrite + reverse-proxy toolkit for home-lab zero-trust setup |
+| 🛰 **[iot-edge-vpn](https://github.com/fdomillan/iot-edge-vpn)** | Terraform, WireGuard | IaC that deploys lightweight VPN mesh for IoT devices on ARM SBCs |
+| 📦 **[k8s-ml-ops](https://github.com/fdomillan/k8s-ml-ops)** | Kubernetes, Argo | Helm charts and Argo-Workflows for reproducible ML pipelines |
 
 <br>
 
@@ -72,8 +72,8 @@ I automate analytics pipelines, deploy ML at scale, and harden infra in the proc
 
 ### 📈 GitHub&nbsp;Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fermillan&show_icons=true&theme=transparent&rank_icon=github&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermillan&layout=compact&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=fdomillan&show_icons=true&theme=transparent&rank_icon=github&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdomillan&layout=compact&theme=transparent&hide_border=true">
 </p>
 
 <br>
@@ -89,7 +89,7 @@ I automate analytics pipelines, deploy ML at scale, and harden infra in the proc
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fermillan&style=flat-square&color=green" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=fdomillan&style=flat-square&color=green" alt="visitors"/>
   &nbsp;&bull;&nbsp; <sub>Last&nbsp;updated: <!--DATE--></sub>
 </p>
 
