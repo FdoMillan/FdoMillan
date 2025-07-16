@@ -1,8 +1,9 @@
 <!-- ─────────────────────────────  HEADER  ───────────────────────────── -->
-<!-- Replace /assets/header.svg with your own banner or GIF -------------->
+<!--                                                           -------------->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fdomillan/fdomillan/main/assets/header.png" alt="Fdo Millan banner" width="100%">
+  <img src="https://raw.githubusercontent.com/FdoMillan/FdoMillan/main/assets/header.png"
+       alt="FdoMillan banner" width="100%">
 </p>
 
 <h1 align="center">FdoMillan</h1>
