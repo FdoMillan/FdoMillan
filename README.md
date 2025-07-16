@@ -2,7 +2,7 @@
 <!--                                                           -------------->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FdoMillan/FdoMillan/main/assets/header.png"
+  <img src="https://github.com/FdoMillan/FdoMillan/blob/main/main/assets/header.png"
        alt="FdoMillan banner" width="100%">
 </p>
 
